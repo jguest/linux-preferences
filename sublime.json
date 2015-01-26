@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"theme": "Brogrammer.sublime-theme",
+
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 11.5,
+	"font_options": [
+		"bold",
+		"subpixel_antialias"
+	],
+
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true,
+
+	"ignored_packages": [
+		"Vintage"
+	]
+}
