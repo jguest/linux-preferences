@@ -49,9 +49,3 @@ function git_branch {
 }
 
 export PS1="\[\033[1;30m\]\u@\h \[\033[01;32m\]\W \[\$(git_color)\]\$(git_branch)\[\033[01;34m\]$ \[\e[0m\]"
-
-# Add RVM to PATH for scripting
-export PATH="$PATH:$HOME/.rvm/bin" 
-
-### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
